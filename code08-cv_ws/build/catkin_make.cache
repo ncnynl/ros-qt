@@ -1,0 +1,2 @@
+image_node_a:image_node_b
+-DCATKIN_DEVEL_PREFIX=/home/dwy/cv_ws/devel -DCMAKE_INSTALL_PREFIX=/home/dwy/cv_ws/install -G Unix Makefiles

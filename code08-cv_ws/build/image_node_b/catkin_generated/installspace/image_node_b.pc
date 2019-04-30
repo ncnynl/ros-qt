@@ -1,0 +1,8 @@
+prefix=/home/dwy/cv_ws/install
+
+Name: image_node_b
+Description: Description of image_node_b
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/dwy/cv_ws/install/lib 
+Requires: roscpp std_msgs
